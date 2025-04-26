@@ -1,6 +1,6 @@
-# 📊 Calculadora Simples e de Juros Compostos
+# 💡 Calculadora Simples e de Juros Compostos
 
-# Objetivo
+## 📊 Objetivo
 
 Este projeto tem como objetivo disponibilizar uma calculadora em Python que oferece duas funcionalidades principais:
 
@@ -10,22 +10,35 @@ Calculadora de Juros Compostos: permite calcular o montante final e o total de j
 
 A proposta é proporcionar uma ferramenta de fácil uso, com interface amigável no terminal, e que também sirva como exercício prático de conceitos fundamentais de programação em Python.
 
-# O que foi praticado
+## 🚀 O que foi praticado
 
 Durante o desenvolvimento deste projeto, foram colocados em prática os seguintes conceitos:
 
-Entrada e saída de dados (input e print)
+Entrada e saída de dados (`input` e `print `)
 
-Conversão e validação de tipos de dados (float, int, tratamento de erros)
+Conversão e validação de tipos de dados (`float`, `int`, tratamento de erros)
 
-Estruturas de repetição (while)
+Estruturas de repetição (`while`)
 
-Estruturas condicionais (if, elif, else)
+Estruturas condicionais (`if`, `elif`, `else`)
 
-Funções (organização do código em blocos reutilizáveis)
+Tratamento de exceções (`try`/`except`)
 
-Formatação de strings (para exibir resultados financeiros)
+##  💻 Como executar
 
-Tratamento de exceções (try/except)
+Siga as instruções do menu no terminal:
 
-Boas práticas de interface no terminal (menus, mensagens claras e feedback ao usuário)
+Escolha entre a calculadora simples ou de juros compostos.
+
+Insira os valores solicitados.
+
+Veja o resultado e opte por realizar novos cálculos ou sair do programa.
+
+##💡Conclusão
+
+Este projeto demonstra como é possível unir conceitos básicos de Python para criar aplicações úteis e interativas no terminal. Ao implementar tanto uma calculadora simples quanto uma de juros compostos, o código reforça a importância de validação de dados, organização em funções e interação clara com o usuário.
+
+Além de servir como ferramenta prática para cálculos rápidos, o projeto é uma ótima base para quem está aprendendo lógica de programação, podendo ser expandido facilmente para incluir novas operações ou funcionalidades.
+
+Sinta-se à vontade para contribuir, sugerir melhorias ou adaptar para seus próprios estudos!
+
