@@ -28,11 +28,11 @@ Tratamento de exceções (`try`/`except`)
 
 Siga as instruções do menu no terminal:
 
-Escolha entre a calculadora simples ou de juros compostos.
+Escolha entre a calculadora simples ou de juros compostos;
 
-Insira os valores solicitados.
+Insira os valores solicitados;
 
-Veja o resultado e opte por realizar novos cálculos ou sair do programa.
+Veja o resultado e opte por realizar novos cálculos ou sair do programa;
 
 ##💡Conclusão
 
